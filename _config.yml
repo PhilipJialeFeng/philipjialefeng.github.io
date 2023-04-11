@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Philip Jiale Feng"
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   bio              : "Optoelectronics Physicist, Postdoc Fellow at Australian Research Council Centre of Excellence in Exciton Science, Alumni at the Cavendish Laboratory, University of Cambridge."
   location         : "Sydney, Australia"
   employer         :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jiale-feng-68b044193/"
   orcid            : "https://orcid.org/0000-0002-4729-9404"
   pinterest        :
   soundcloud       :
