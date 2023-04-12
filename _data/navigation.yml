@@ -1,25 +1,25 @@
 # main links links
 main:
   - title: "Research Experience"
-    url: /research_experience/
+    url: /teaching/
 
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /talks/  
     
+  - title: "CV"
+    url: /cv/
+  
+  # - title: "Research Experience"
+  #   url: /research_experience/
+  
   # - title: "Portfolio"
   #   url: /portfolio/
         
   # - title: "More about me"
-  #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  #   url: /year-archive/ 
+
+  # - title: "Guide"
+  #   url: /markdown/
