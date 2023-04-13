@@ -12,7 +12,7 @@ Authors: Jessica Alves\*, **Jiale Feng**\*, Lea Nienhaus, Timothy W. Schmidt.
 
 ![upconversionperspective](/images/upconversionperspective.png)
 
-**Abstract**
+**Abstract**  
 Many applications, including solar energy conversion, can be enhanced by the upconversion of low energy photons. A flexible approach towards achieving this is by sensitized triplet–triplet annihilation, or triplet fusion. Despite high efficiencies being achieved for many compositions in solution, this has not yet been translated to the solid state. In this perspective, we provide an overview of the various approachesto obtain triplet fusion upconversion in solid state and discuss the challenges inherent to its implementation. Finally, we outlay our view on target areas to successfully envision solid state upconversion in the future.
 
 [View paper online](https://pubs.rsc.org/en/content/articlelanding/2022/TC/D1TC05659J)

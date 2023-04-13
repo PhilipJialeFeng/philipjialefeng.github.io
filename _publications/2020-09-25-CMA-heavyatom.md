@@ -12,7 +12,7 @@ Authors: **Jiale Feng**, Antti-Pekka M. Reponen, Alexander S. Romanov, Mikko Lin
 
 ![CMA-heavyatom](/images/CMA-heavyatom.png)
 
-**Abstract**
+**Abstract**  
 The effect of the heavy metal atom on the photophysics of carbene-metal-amide (CMA) photoemitters is explored, where the metal bridge is either Au, Ag, or Cu. Spectroscopic investigations reveal the coupling mechanism responsible for communication between the singlet and triplet manifolds. The photophysical properties do not reflect expected trends based upon the heavy atom effect, as both direct coupling between charge-transfer states and spin-vibronic coupling via a ligand-centered triplet state are present. Direct coupling is weakest for CMA(Ag), increasing the importance of the spin-vibronic pathway and rendering its properties more sensitive to inter-state energy gaps than for the Au and Cu-bridged analogues. The measured activation energy correlates with the expected exchange energy of the charge-transfer state, which is also closely related to the length of the bonds joining the carbene and amide ligands, and decreases in the order CMA(Cu) > CMA(Au) > CMA(Ag). These findings reveal that reducing interference between charge-transfer and ligand-centers excited, and minimizing exchange energy, are required for developing efficient luminescent CMA complexes.
 
 [View paper online](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202005438)

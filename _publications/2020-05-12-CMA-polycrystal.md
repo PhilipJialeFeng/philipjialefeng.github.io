@@ -12,7 +12,7 @@ Authors: **Jiale Feng**\*, Elliot J. Taffet\*, Antti-Pekka M. Reponen, Alexander
 
 ![CMA-polycrystal](/images/CMA-polycrystal.png)
 
-**Abstract**
+**Abstract**  
 The nature of carbene–metal–amide (CMA) photoluminescence in the solid state is explored through spectroscopic and quantum-chemical investigations on a representative Au-centered molecule. The crystalline phase offers well-defined coplanar geometries—enabling the link between molecular conformations and photophysical properties to be unravelled. We show that a combination of restricted torsional distortion and molecular electronic polarization blue shift the charge-transfer emission by around 400 meV in the crystalline versus the amorphous phase, through energetically raising the less-dipolar S$_1$ state relative to S$_0$. This blue shift brings the lowest charge-transfer states very close to the localized carbazole triplet state, whose structured emission is observable at low temperature in the polycrystalline phase. Moreover, we discover that the rate of intersystem crossing and emission kinetics are unaffected by the extent of torsional distortion. We conclude that more coplanar triplet equilibrium conformations control the photophysics of CMAs.
 
 [View paper online](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.0c01363)
