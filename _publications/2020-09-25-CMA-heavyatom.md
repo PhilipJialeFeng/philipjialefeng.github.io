@@ -1,5 +1,5 @@
 ---
-title: "Inuence of Heavy Atom Effect on the Photophysics of Coinage Metal Carbene-Metal-Amide Emitters"
+title: "Influence of Heavy Atom Effect on the Photophysics of Coinage Metal Carbene-Metal-Amide Emitters"
 collection: publications
 permalink: /publication/2020-09-25-CMA-heavyatom
 excerpt: ''
