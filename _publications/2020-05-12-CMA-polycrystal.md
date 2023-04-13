@@ -8,7 +8,7 @@ venue: 'Chemistry of Materials'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 5.&quot; <i>Journal 1</i>. 1(3).'
 ---
-Authors: **Jiale Feng**$\dag$, Elliot J. Taffet$\dag$, Antti-Pekka M. Reponen, Alexander S. Romanov, Yoann Olivier, Vincent Lemaur, Lupeng Yang, Mikko Linnolahti, Manfred Bochmann, David Beljonne, Dan Credgington.
+Authors: **Jiale Feng**\*, Elliot J. Taffet\*, Antti-Pekka M. Reponen, Alexander S. Romanov, Yoann Olivier, Vincent Lemaur, Lupeng Yang, Mikko Linnolahti, Manfred Bochmann, David Beljonne, Dan Credgington.
 
 ![CMA-polycrystal](/images/CMA-polycrystal.png)
 
