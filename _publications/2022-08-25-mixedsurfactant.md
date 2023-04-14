@@ -1,6 +1,5 @@
 ---
-title: "Minimum Surfactant Requirements for Inducing Selfshaping
-of Oil Droplets and Competitive Adsorption Effects"
+title: "Minimum Surfactant Requirements for Inducing Self-shaping of Oil Droplets and Competitive Adsorption Effects"
 collection: publications
 permalink: /publication/2022-08-25-mixedsurfactant
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
