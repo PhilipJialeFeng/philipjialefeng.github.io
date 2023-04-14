@@ -18,7 +18,7 @@ Education
 Employment
 ======
 * **Post-doctoral Research Fellow**, Sept 2021 - present
-  * Australian Research Council Centre of Excellence in Exciton Science, University of New South Wales (UNSW) node.
+  * Australian Research Council Centre of Excellence in Exciton Science, University of New South Wales (UNSW) node
 
 Technical Skills
 ======
@@ -33,28 +33,29 @@ Technical Skills
   * Morphological and structural analyses of thin films, data interpretation and relate molecular properties to device performance.
 * **Device fabrications and characterisations**
   * Vapour-deposited and solution-processed OLED device fabrications.
-  * Knowledge of device physics, working principles.
+  * Knowledge of device physics and working principles.
   * Characterise device performance.
 * **Computation**
-  * Quantum chemistry (DFT) calculations and Monte-Carlo simulations of molecular properties using high performance computers.
+  * Quantum chemistry calculations using density functional theory (DFT) of molecular properties using high performance computers.
+  * Monte-Carlo simulations.
 * **Graphical design**
   * Frequently use Adobe Illustrator and Blender to design and draw figures for scientific publications.
 
 Research Experience
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks & Presentations
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
