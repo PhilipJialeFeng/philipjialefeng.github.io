@@ -15,11 +15,3 @@ If you want to learn more about the triplet-triplet annihilation (TTA) and photo
 ![Upconversion picture](/images/upconversionpicture.jpg)
 *Image: Energy upconversion in solution. The low-energy incoming photons (green laser) are energy upconverted to high-energy photons (violet emission) via triplet-triplet annihilation (TTA).*  
 
-<!-- Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->

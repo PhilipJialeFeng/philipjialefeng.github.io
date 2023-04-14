@@ -17,12 +17,3 @@ You can find a copy of my PhD thesis [here](https://www.repository.cam.ac.uk/han
 The graffiti-style poster below (you may have seen it in the front page) basically encapsulates the essence of my thesis in an informal way. All the hand-drawn figures in the poster have a formal version in the thesis. See if you can match them.
 
 ![My PhD poster](/images/My_PhD_poster.png)
-
-<!-- Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->
