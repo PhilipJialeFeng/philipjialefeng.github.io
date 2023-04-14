@@ -8,15 +8,15 @@ date: 2016-10-01
 location: ""
 ---
 
-Droplets of some oil, such as hexadecane, when being around the size of 10-30 $\micro$m, stablised by surfactant and slowly cooled down, can spontaneously undergo shape transformations and related self-emulsification, which means breaking down to smaller droplets by itself. In this project, I added fluorescence dye to the oil droplets and used optical microscope to monitor the shape changing. I found that the stability of droplets during shape transformation is related to the rotator phases formed between the oil and the water. I also investigated the minimum surfactant requirements for inducing self-shaping of oil droplets and competitive adsorption effects. My work from this project features in *[Soft Matter](https://philipjialefeng.github.io/publication/2022-08-25-mixedsurfactant)*.
+Droplets of some oils, such as hexadecane, when being around the size of 10-30 μm, stablised by surfactants and slowly cooled down, can spontaneously undergo shape transformations and related self-emulsification, which means breaking down to smaller droplets by itself. In this project, I used optical microscope to monitor the shape changing. I found that the stability of droplets during shape transformation is related to the rotator phases formed between the oil and the water. I also investigated the minimum surfactant requirements for inducing self-shaping of oil droplets and competitive adsorption effects. My work from this project features in *[Soft Matter](https://philipjialefeng.github.io/publication/2022-08-25-mixedsurfactant)*.
 
 ![Oil drop](/images/oildrop.PNG)
-
-Heading 1
+*Image: Shape transformations of oil droplets under cooling. Depending on the size and cooling rate, different shapes can be formed.*
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->

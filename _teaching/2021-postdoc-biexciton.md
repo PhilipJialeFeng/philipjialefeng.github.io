@@ -13,7 +13,7 @@ Singlet fission (SF) and triplet-triplet annihilation (TTA) are two processes th
 If you want to learn more about the triplet-triplet annihilation (TTA) and photochemical energy upconversion, you can read our perspective paper published in *[Journal of Materials Chemistry C](https://philipjialefeng.github.io/publication/2022-05-03-upconversionperspective)* and our review paper published in *[Annual Review of Physical Chemistry](https://philipjialefeng.github.io/publication/2023-01-25-photochemicalupconversion)*.
 
 ![Upconversion picture](/images/upconversionpicture.jpg)
-
+*Image: Energy upconversion in solution. The low-energy incoming photons (green laser) are energy upconverted to high-energy photons (violet emission) via triplet-triplet annihilation (TTA).*
 <!-- Heading 1
 ======
 
