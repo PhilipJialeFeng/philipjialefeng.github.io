@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Science (B.Sc) in Materials Science and Engineering, *University of Manchester*, 2016
+* Master of Philosophy (M.Phil) in Materials Science and Metallurgy, *University of Cambridge*, 2017
+* Doctor of Philosophy (Ph.D) in Physics, *University of Cambridge*, 2020
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept 2021 - present: Post-doctoral Research Fellow
+  * Australian Research Council Centre of Excellence in Exciton Science
+  * University of New South Wales (UNSW) node
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages and data analysis
+  * Python (advanced level) frequently used for large dataset analysis, data visualisations, and numerical simulations.
+  * Familiar with dimensionality reduction algorithm for large dataset.
+  * Familiar with machine learning techniques and artificial intelligence (AI) models.
+  * Also able to use MATLAB and R (intermediate level) for supplementary analysis.
+* Photophysics characterisations of organic semiconductors
+  * Strong expertise in steady-state and ultrafast spectroscopy, including cryogenic spectroscopy.
+  * Optical and optoelectronic analyses of organic semiconductors.
+  * Morphological and structural analyses of thin films, data interpretation and relate molecular properties to device performance.
+* Device fabrications and characterisations
+  * Vapour-deposited and solution-processed OLED device fabrications.
+  * Knowledge of device physics, working principles.
+  * Characterise device performance.
+* Computation
+  * Quantum chemistry (DFT) calculations and Monte-Carlo simulations of molecular properties using high performance computers.
+* Graphical design
+  * Frequently use Adobe Illustrator and Blender to design and draw figures for scientific publications.
 
 Research Experience
 ======
