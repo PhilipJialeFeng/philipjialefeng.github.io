@@ -41,21 +41,21 @@ Technical Skills
 * **Graphical design**
   * Frequently use Adobe Illustrator and Blender to design and draw figures for scientific publications.
 
-
+     
 Research Experience
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
+     
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
+     
 Talks & Presentations
 ======
   <ul>{% for post in site.talks reversed %}
