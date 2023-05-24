@@ -17,8 +17,8 @@ Education
 
 Professional Experience
 ======
-* **Post-doctoral Research Fellow**, Sept 2021 - present
-  * Australian Research Council Centre of Excellence in Exciton Science, University of New South Wales (UNSW) node
+* **Post-doctoral Research Fellow**, Sept 2021 - present    
+Australian Research Council Centre of Excellence in Exciton Science, University of New South Wales (UNSW) node
 
 Technical Skills
 ======
@@ -37,32 +37,19 @@ ductors, quantum computers, quantum information, electron microscopes and laser.
   * Word, Excel, Power Point, LaTeX, Abode Photoshop, Origin.
   * Frequently use Adobe Illustrator and Blender to design and draw fgures for scientific publications.
 
-<!-- * **Photophysics characterisations of organic semiconductors**
-  * Strong expertise in steady-state and ultrafast spectroscopy, including cryogenic spectroscopy.
-  * Optical and optoelectronic analyses of organic semiconductors.
-  * Morphological and structural analyses of thin films, data interpretation and relate molecular properties to device performance.
-* **Device fabrications and characterisations**
-  * Vapour-deposited and solution-processed OLED device fabrications.
-  * Knowledge of device physics and working principles.
-  * Characterise device performance.
-* **Computation**
-  * Quantum chemistry calculations using density functional theory (DFT) of molecular properties using high performance computers.
-  * Monte-Carlo simulations.
-* **Graphical design**
-  * Frequently use Adobe Illustrator and Blender to design and draw figures for scientific publications. -->
 
 Transferable Skills
 ======
-* **Leadership and collaboration**
+* **Leadership and collaboration**   
 Led 5 research projects and two review papers, involving 36 researchers from 17 different groups,
 also collaborated in 4 research projects. All work published in top-tier journals.
-* **Project and time management**
+* **Project and time management**    
 Plan projects in a timely manner and finished my PhD within 33 months with 3 first-author and
 1 co-author publications. Received extremely positive feedback from two PhD viva examiners.
-* **Communication and presentation**
+* **Communication and presentation**    
 Gave 2 invited talks, 5 oral presentations and 4 poster presentations in international conferences
 and departmental seminars, where I successfully established collaborations with 5 research groups.
-* **Organisation**
+* **Organisation**    
 Organised 2019 Cavendish Laboratory, Optoelectronics group winter school (skiing trip plus daily
 academic seminars) in Austria for five days, around 70 people.
 
@@ -102,3 +89,17 @@ Talks & Presentations
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+
+<!-- * **Photophysics characterisations of organic semiconductors**
+  * Strong expertise in steady-state and ultrafast spectroscopy, including cryogenic spectroscopy.
+  * Optical and optoelectronic analyses of organic semiconductors.
+  * Morphological and structural analyses of thin films, data interpretation and relate molecular properties to device performance.
+* **Device fabrications and characterisations**
+  * Vapour-deposited and solution-processed OLED device fabrications.
+  * Knowledge of device physics and working principles.
+  * Characterise device performance.
+* **Computation**
+  * Quantum chemistry calculations using density functional theory (DFT) of molecular properties using high performance computers.
+  * Monte-Carlo simulations.
+* **Graphical design**
+  * Frequently use Adobe Illustrator and Blender to design and draw figures for scientific publications. -->
