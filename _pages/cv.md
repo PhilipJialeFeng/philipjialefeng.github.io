@@ -31,11 +31,10 @@ Technical Skills
 with Samsung Display to develop and characterise novel organic light emitters.
   * Comprehensive knowledge about clean and renewable energy, particularly solar energy harvesting
 using photovoltaics and mechanisms of breaking the effciency limit of solar cells.
-  * Strong quantum physics background to analyse current quantum technologies, such as semicon-
-ductors, quantum computers, quantum information, electron microscopes and laser.
+  * Strong quantum physics background to analyse current quantum technologies, such as semiconductors, quantum computers, quantum information, electron microscopes and laser.
 * **Software**
   * Word, Excel, Power Point, LaTeX, Abode Photoshop, Origin.
-  * Frequently use Adobe Illustrator and Blender to design and draw fgures for scientific publications.
+  * Frequently use Adobe Illustrator and Blender to design and draw figures for scientific publications.
 
 
 Transferable Skills
